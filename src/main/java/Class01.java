@@ -10,6 +10,13 @@ public class Class01 {
         System.out.println(x+y);
 
 
+        //Versiyon2
+        int z = 5;
+        System.out.println(x + y + z);
+
+
+
+
 
 
 
